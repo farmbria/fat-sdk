@@ -1,8 +1,8 @@
 # FAT SDK
 
-In-depth documentation on this SDK is available at [uniswap.org](https://uniswap.org/docs/v2/SDK/getting-started/).
+In-depth documentation on this SDK is available at [farmbria.io](https://farmbria.io/docs/v2/SDK/getting-started/).
 
-This modifies uniswap-sdk's UniswapV2Factory address. The new address for Fat is  `0xC0AEe478e3658e2610c5F7A4A2E1777cE9e4f2Ac`.
+This modifies uniswap-sdk's UniswapV2Factory address. The new address for Fat (rinkeby) is  `0x49A82811770A72f5a17B077593af312E29103FD7`.
 
 ## Running tests
 
